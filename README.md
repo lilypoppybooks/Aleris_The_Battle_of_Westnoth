@@ -38,5 +38,4 @@ Feedback welcome, especially on:
 - Village distribution for the outer players
 
 ## License
-
-Add your preferred license here (e.g. GPL v2+, matching Wesnoth's own content license).
+ GPL v2
