@@ -37,5 +37,8 @@ Feedback welcome, especially on:
 - Balance around the central point (is it too strong, too exposed, or about right?)
 - Village distribution for the outer players
 
+## About me 
+I'm Felix Lahaie. I had a brain hemorrhage that left me disabled, but I still love creating.
+
 ## License
  GPL v2
